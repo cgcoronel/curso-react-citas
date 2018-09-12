@@ -1,4 +1,4 @@
 
-Aplicacion de carga de Turnos para una veterinaria
+Aplicacion de carga de Turnos para una veterinaria (React, Almacenamiento en localstorage)
 
 <img src='https://raw.githubusercontent.com/thesequencer/curso-react-citas/master/captura.png'>
